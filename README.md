@@ -18,7 +18,7 @@ Como fazer check-in nas aulas usando git/github.
 
     git add .
     
-    git commit -m "check-in para aula do aluno ..."
+    git commit -m "presenca"
     
     git push
     
