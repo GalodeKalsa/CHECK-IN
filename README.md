@@ -19,7 +19,7 @@
 
 3. Criar arquivo referente à aula que será feito check-in, no formato `DD-MM-AAAA.txt`
 
-    exemplo: `20-02-2017.txt (para dia 20 de fevereiro de 2017)`
+    exemplo: `20-02-2017.txt` (para dia 20 de fevereiro de 2017)
 
 4. Adicionar alteração, fazer commit e depois push para repositório remoto
 
